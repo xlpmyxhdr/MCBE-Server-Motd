@@ -5,6 +5,8 @@
 *.so
 *.dylib
 *.bat
+MCBE-Server-Motd.*
+MCBE-Server-Motd
 
 # Test binary, built with `go test -c`
 *.test
